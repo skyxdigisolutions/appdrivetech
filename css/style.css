@@ -314,7 +314,7 @@ a:focus {
 .carousel {
     position: relative;
     width: 100%;
-    min-height: 400px;
+    min-height: 200px;
     background: #ffffff;
     margin-bottom: 45px;
 }
@@ -326,7 +326,7 @@ a:focus {
 .carousel .carousel-item {
     position: relative;
     width: 100%;
-    min-height: 400px;
+    min-height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -337,13 +337,13 @@ a:focus {
     position: relative;
     width: 100%;
     height: 100%;
-    min-height: 400px;
+    min-height: 200px;
     text-align: right;
     overflow: hidden;
 }
 
 .carousel .carousel-img::after {
-    position: absolute;
+    position: relative;
     content: "";
     top: 0;
     right: 0;
