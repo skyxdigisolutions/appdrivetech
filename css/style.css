@@ -2076,3 +2076,10 @@ a:focus {
 .footer .copyright p a:hover {
     color: #ffffff;
 }
+
+.whatsapp{
+    position: fixed;
+    right: 60px;
+    bottom: 5px;
+    z-index: 9;
+  }
