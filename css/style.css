@@ -213,6 +213,7 @@ a:focus {
 .top-bar .top-bar-item h3 span {
     font-size: 30px;
     font-weight: 800;
+     color: #295286;
    opacity: 0;
    display: inline-block;
    animation: animate 6s linear forwards;
